@@ -14,15 +14,15 @@ I build mobile applications that turn ideas into useful, practical products.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 📱 Focused on building mobile apps with **Flutter and Dart**
-- 🧩 Interested in clean, maintainable code and practical user experiences
-- 🔧 Exploring backend integrations with **Firebase** and **Supabase**
-- 🌏 Based in Sumbawa, Indonesia
-- 🚀 Always learning, building, and improving
+- Focused on building mobile apps with **Flutter and Dart**
+- Interested in clean, maintainable code and practical user experiences
+- Exploring backend integrations with **Firebase** and **Supabase**
+- Based in Sumbawa, Indonesia
+- Always learning, building, and improving
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
@@ -52,16 +52,8 @@ A local discovery platform concept for exploring Sumbawa, including culinary spo
 
 > Some of these projects are work-in-progress or organization projects and may not be available as public source code.
 
-## 📊 GitHub
 
-<div align="center">
-
-![Satria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satria7&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satria7&layout=compact&hide_border=true&theme=transparent)
-
-</div>
-
-## 🎯 Currently Focused On
+## Currently Focused On
 
 - Improving Flutter app architecture and maintainability
 - Building useful features with reliable backend integrations
