@@ -2,7 +2,7 @@
 
 # Hi, I'm Satria Junanda 👋
 
-### Mobile App Developer · Flutter & Dart
+### Mobile App Developer 
 
 I build mobile applications that turn ideas into useful, practical products.
 
